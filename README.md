@@ -17,7 +17,7 @@ Program terdiri dari tiga file utama:
 
 File JavaScript dihubungkan menggunakan atribut `defer` agar dijalankan setelah HTML selesai diproses.
 
-<img width="240" height="340" alt="Screenshot 2026-10-26 152518" src="https://github.com/user-attachments/assets/d0fc13dc-5343-4b70-adc5-973a9a11232d" />
+<img width="92" height="68" alt="Screenshot 2026-10-28 103116" src="https://github.com/user-attachments/assets/10072914-606e-4945-b730-15739dfa9d83" />
 
 ## D. Penjelasan Program
 
@@ -40,7 +40,7 @@ tombol.addEventListener("click", function () {
 });
 ```
 
-<img width="705" height="283" alt="Screenshot 2026-10-26 153234" src="https://github.com/user-attachments/assets/09732ebe-6e1d-45ec-b553-236cd7a75f69" />
+<img width="386" height="128" alt="Screenshot 2026-10-28 103224" src="https://github.com/user-attachments/assets/1e1465dc-061e-4f39-84a6-eb1fed744a22" />
 
 
 ### 2. Mengubah Class dan Gaya CSS
@@ -94,7 +94,8 @@ namaInput.addEventListener("input", function () {
 });
 ```
 
-<img width="403" height="87" alt="Screenshot 2026-10-26 153456" src="https://github.com/user-attachments/assets/2c08a3f4-52fa-42df-b16c-0d51244ceaee" />
+<img width="268" height="184" alt="Screenshot 2026-10-28 102618" src="https://github.com/user-attachments/assets/bbde8d6b-b6bf-4f54-825a-a9a3b35cee20" />
+
 
 
 
